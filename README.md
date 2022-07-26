@@ -1,7 +1,7 @@
 # EnterpriseDataScience
 This is a university project to make some data science on the actual situation of covid-19.
 
-First i created a static visualization of the Covid cases for 3 countries in each figure:
+First i created a static visualization of the Covid cases for 3 countries in each figure:</br>
         Delivery 1 : Figure 1 The relative cases overtime of Covid infectors (absolut Covid cases/population size)
         Delivery 2 : Figure 2 The vaccination rate (percentage of the population) over time
         
